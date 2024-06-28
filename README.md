@@ -9,7 +9,7 @@ Titik Koma Aja Diperhatiin Apalagi Kamuuu 😋😋😋
 * 🌍  I'm based in Bandung
 * 🖥️  See my portfolio at [Movies Website](https://moviescreen.vercel.app/)
 * ✉️  You can contact me at [bayuramdhan50@gmail.com](mailto:bayuramdhan50@gmail.com)
-* 🚀  I'm currently working on [Silver Screen Saga](http://github.com/Ajikatab/SSS)
+* 🚀  I'm currently study on [Institut Teknologi Nasional](https://www.itenas.ac.id/)
 * 🧠  I'm learning Python, PHP, Laravel, Java, JavaScript, Flutter, ReactNative, NextJS
 * 🤝  I'm open to collaborating on Other Projects!
 * ⚡  I'm like playing games with friend in PC and Mobile
