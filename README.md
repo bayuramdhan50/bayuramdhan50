@@ -4,8 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-Titik Koma Aja Diperhatiin Apalagi Kamuuu 😋😋😋
-
 * 🌍  I'm based in Bandung
 * 🖥️  See my portfolio at [Movies Website](https://moviescreen.vercel.app/)
 * ✉️  You can contact me at [bayuramdhan50@gmail.com](mailto:bayuramdhan50@gmail.com)
