@@ -33,7 +33,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bayuramdhan50)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bayuramdhan50)
 [![trophy](https://github-profile-trophy.vercel.app/?username=bayuramdhan50)](https://github.com/bayuramdhan50)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=bayuramdhan50)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=bayuramdhan50)](https://git.io/streak-stats)
 
 ---
 
