@@ -1,25 +1,44 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Bayu Ramdhan Ardiyanto
-==============================================================================================================================================
+## Hi there, I'm bayuramdhan50! 👋
 
-Software Engineer
------------------
+### About Me
 
-* 🌍  I'm based in Bandung
-* 🖥️  See my portfolio at [Movies Website](https://moviescreen.vercel.app/)
-* ✉️  You can contact me at [bayuramdhan50@gmail.com](mailto:bayuramdhan50@gmail.com)
-* 🚀  I'm currently study at [Institut Teknologi Nasional Bandung](https://www.itenas.ac.id/)
-* 🧠  I'm learning Python, PHP, Laravel, Java, JavaScript, Flutter, ReactNative, NextJS
-* 🤝  I'm open to collaborating on Other Projects!
-* ⚡  I'm like playing games with friend in PC and Mobile
+- 🚀 I've been active on GitHub since November 2017 and have a total of 55 public repositories.
+- 💻 I have a diverse skill set in programming languages including Java, JavaScript, HTML, CSS, C#, TypeScript, Python, and more.
+- 🎮 Some of my interests and repositories are related to game development, web applications, and predictive modeling.
+- 🌱 I'm constantly learning and exploring new technologies to enhance my coding skills.
 
-### Skills
+### Coding Habits
 
+- 🧑‍💻 With 413 commits and 37 pull requests, I am committed to consistent code development.
+- 🌟 I frequently use JavaScript, HTML, and CSS in my repositories to build interactive web applications and projects.
 
-<p align="left">
-<a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a><a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
-</p>
+### Project Contributions
 
+- 🔧 I've created repositories like "Saga-Store" and "Crud-Lat-PBO," showcasing my personal projects and skills.
+- 👥 Additionally, I have contributed to popular projects like "SSS" and "telco-churn-prediction," demonstrating my willingness to collaborate in diverse domains.
 
-### Socials
+### GitHub Presence
 
-<p align="left"> <a href="https://discord.com/users/415282600404582420" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/bayuramdhan50" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/bayurmdhnaa" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a></p>
+- 🔗 You can explore my projects and repositories on my [GitHub profile](https://github.com/bayuramdhan50).
+- ⭐ My most starred repository is "SSS," which has garnered a total of 3 stars.
+- 👥 I'm building my presence on GitHub with active contributions and a growing number of followers.
+
+### Contact Me
+
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/bayuramdhan50) for collaborations and discussions.
+- 📧 Email me at bayuramdhan50@example.com for any queries or project opportunities.
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bayuramdhan50)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bayuramdhan50)
+[![trophy](https://github-profile-trophy.vercel.app/?username=bayuramdhan50)](https://github.com/bayuramdhan50)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=bayuramdhan50)](https://git.io/streak-stats)
+
+---
+
+Feel free to reach out for collaboration opportunities or to discuss any exciting projects. Let's create amazing code together! 🚀
+
+--- 
+
+### Thank you for visiting my profile! 🌟
