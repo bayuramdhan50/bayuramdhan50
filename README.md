@@ -26,7 +26,7 @@
 ### Contact Me
 
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/bayuramdhan50) for collaborations and discussions.
-- 📧 Email me at bayuramdhan50@example.com for any queries or project opportunities.
+- 📧 Email me at bayuramdhan50@gmail.com for any queries or project opportunities.
 
 ---
 
